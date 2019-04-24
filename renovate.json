@@ -1,6 +1,6 @@
 {
   "extends": [ "config:base" ],
-  "baseBranches": [ "dev" ],
+  "baseBranches": [ "develop", "master" ],
   "automerge": true,
   "automergeType": "branch-push",
   "rebaseStalePrs": true,
