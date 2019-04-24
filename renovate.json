@@ -1,7 +1,7 @@
 {
   "extends": [ "config:base" ],
-  "baseBranches": [ "develop", "master" ],
-  "automerge": true,
+  "baseBranches": [ "develop" ],
+  "automerge": false,
   "automergeType": "branch-push",
   "rebaseStalePrs": true,
   "recreateClosed": true
