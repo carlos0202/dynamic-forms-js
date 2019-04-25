@@ -1,8 +1,9 @@
 {
   "extends": [ "config:base" ],
   "baseBranches": [ "develop" ],
-  "automerge": false,
+  "automerge": true,
   "automergeType": "pr",
   "rebaseStalePrs": null,
-  "recreateClosed": false
+  "recreateClosed": false,
+  "schedule": "every weekend"
 }
