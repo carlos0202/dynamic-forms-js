@@ -10,7 +10,7 @@ const config = {
   input: 'src/index.js',
   output: {
     format: 'umd',
-    name: 'npmPackageES6Boilerplate',
+    name: 'dynamicFormsJs',
   },
 
   plugins: [

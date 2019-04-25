@@ -19,4 +19,8 @@ flow-typed/npm/*
 # Release
 lib
 
+# Not wanted on source control
+# code to be migrated
+old_code
+
 
