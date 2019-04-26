@@ -1,5 +1,3 @@
-import       thankYou from 'examples/modern';
+import DynamicFormModule from '../src/dynamicForms/index';
 
-export const modern = thankYou;
-
-console.log(thankYou());
+export const dynamicForms = DynamicFormModule;
