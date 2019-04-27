@@ -64,7 +64,7 @@
     "fs-file-tree": "1.0.7",
     "jest": "24.7.1",
     "rimraf": "2.6.3",
-    "rollup": "0.60.0",
+    "rollup": "1.10.1",
     "rollup-plugin-babel": "4.3.2",
     "rollup-plugin-commonjs": "9.3.4",
     "rollup-plugin-node-resolve": "3.3.0",
