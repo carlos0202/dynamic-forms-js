@@ -1,3 +1,3 @@
-import DynamicFormModule from '../src/dynamicForms/index';
+import DynamicFormModule from './dynamicForms/index';
 
 export const dynamicForms = DynamicFormModule;
